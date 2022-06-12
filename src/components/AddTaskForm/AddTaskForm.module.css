@@ -1,0 +1,15 @@
+.addTaskForm label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.errorMessage p {
+  display: inline-block;
+  margin: 0.5em 0;
+  padding: 0.5em 1em;
+  border-radius: 8px;
+  color: #D30000;
+  font-weight: 500;
+  background-color: #fce1e1;
+}

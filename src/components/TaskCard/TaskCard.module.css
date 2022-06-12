@@ -1,0 +1,52 @@
+.deleteButton {
+  width: 2em;
+  height: 2em;
+  padding: 0.5em;
+  border-radius: 99999999px;
+  font-size: 1em;
+  background-color: #f44336;
+}
+
+.taskCard {
+  padding: 1em;
+  border-radius: 8px;
+  background-color: #cfcfcf;
+}
+
+.taskCard header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.taskCard section {
+  margin: 0.5em 0;
+  padding: 1em;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.taskCard footer {
+  margin-top: 1em;
+}
+
+.taskCard h3 {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+}
+
+.taskCard p {
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+  font-size: 1em;
+}
+
+.taskCompleted h3 {
+  color: #919191;
+  text-decoration: line-through;
+  text-decoration-thickness: 2px;
+}

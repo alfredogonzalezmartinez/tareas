@@ -1,0 +1,19 @@
+.priorityBadge {
+  color: #fff;
+  font-weight: 500;
+  font-size: .8em;
+  border-radius: 4px;
+  padding: 0.1rem 0.7rem;
+}
+
+.highPriority {
+  background-color: #f44336;
+}
+
+.normalPriority {
+  background-color: #0d47a1;
+}
+
+.lowPriority {
+  background-color: #5c5c5c;
+}
